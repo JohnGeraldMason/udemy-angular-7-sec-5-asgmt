@@ -1,14 +1,16 @@
 <div class="container">
   <div class="row">
-    <div class="col-xs-3">
+    <div class="col-xs-1">
       <button
         class="btn btn-success btn-sm"
         [disabled]="!startButtonEnabled"
         (click)="onStart()">Start
       </button>
+    </div>
+    <div class="col-xs-1">
       {{gameCounter}}
     </div>
-    <div class="col-xs-3">
+    <div class="col-xs-1">
       <button
         class="btn btn-danger btn-sm"
         [disabled]="!stopButtonEnabled"
@@ -16,4 +18,5 @@
       </button>
     </div>
   </div>
+
 </div>
