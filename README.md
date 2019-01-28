@@ -1,4 +1,6 @@
-# MyFirstApp
+# udemy-angular-7-sec-5-asgmt
+
+![readme-pic](https://user-images.githubusercontent.com/2049888/51854211-a531fe80-2300-11e9-8d44-8065b6ff9258.PNG)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
